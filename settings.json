@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SKOWLSMP.aternos.me",
-    "port": 23584,
+    "ip": "sgp2.bytenut.cc:14630",
+    "port": 14630,
     "version": "",
     "try-creative": false
   },
